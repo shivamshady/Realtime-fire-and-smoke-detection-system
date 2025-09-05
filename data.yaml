@@ -1,0 +1,13 @@
+names:
+- '0'
+- object
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: fire-detection-system-eevqa
+  url: https://universe.roboflow.com/fire-detection-msc3f/fire-detection-system-eevqa/dataset/2
+  version: 2
+  workspace: fire-detection-msc3f
+test: /content/firedetection_2/Fire-detection-system-2/test/images
+train: /content/firedetection_2/Fire-detection-system-2/train/images
+val: /content/firedetection_2/Fire-detection-system-2/valid/images
